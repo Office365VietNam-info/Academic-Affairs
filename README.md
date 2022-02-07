@@ -26,4 +26,4 @@ This PowerApps for training, has 4 main features: Class notebook: Record informa
 - 1 Office 365 account with license A1 or higher.
 - Documents: https://github.com/Office365VietNam-info/Academic-Affairs
 
-# 1. Preparation
+# 2. Step by step to implement the demo version
