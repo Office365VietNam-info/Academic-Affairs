@@ -27,8 +27,8 @@ This PowerApps for training, has 4 main features:
 ![About Author](https://github.com/Office365VietNam-info/Academic-Affairs/blob/main/Images/4.png?raw=true)
 
 
-# 1. Preparation
+# Preparation
 - 1 Office 365 account with license A1 or higher.
 - Documents: https://github.com/Office365VietNam-info/Academic-Affairs
 
-# 2. Step by step to implement the demo version
+
