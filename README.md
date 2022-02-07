@@ -5,6 +5,7 @@ This PowerApps for training, has 4 main features:
 * Student information management: Look up information of each student, student in the School. 
 * Proposal to purchase materials for training Faculties propose to purchase equipment for teaching work.
 
+===
 * Demo:
 
 [![Watch the video](https://img.youtube.com/vi/qyBn07G8LCE/maxresdefault.jpg)](https://www.youtube.com/watch?v=qyBn07G8LCE )
